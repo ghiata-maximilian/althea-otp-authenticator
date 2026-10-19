@@ -1,0 +1,5 @@
+# Local installer artifacts are distributed as GitHub Release assets, not tracked in git.
+# (The .dmg exceeds GitHub's 100 MB blob limit; smaller bundles belong to Releases too.)
+/Linux/
+/Windows/
+/macOS/
